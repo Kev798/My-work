@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="frjQ-KEZwg3zoOFhA1IH">
+    <mxGraphModel dx="1414" dy="1946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5hrR0uZiE9xDB2oV35NG-6" edge="1" parent="1" source="5hrR0uZiE9xDB2oV35NG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5hrR0uZiE9xDB2oV35NG-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5hrR0uZiE9xDB2oV35NG-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="80" x="400" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="5hrR0uZiE9xDB2oV35NG-5" edge="1" parent="1" source="5hrR0uZiE9xDB2oV35NG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5hrR0uZiE9xDB2oV35NG-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5hrR0uZiE9xDB2oV35NG-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Ler P1 P2 P3 P4" vertex="1">
+          <mxGeometry height="60" width="150" x="110" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5hrR0uZiE9xDB2oV35NG-11" edge="1" parent="1" source="5hrR0uZiE9xDB2oV35NG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5hrR0uZiE9xDB2oV35NG-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5hrR0uZiE9xDB2oV35NG-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="(P1+P2+P3+P4)/4" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="5hrR0uZiE9xDB2oV35NG-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="80" x="130" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="5hrR0uZiE9xDB2oV35NG-13" edge="1" parent="1" source="5hrR0uZiE9xDB2oV35NG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="5hrR0uZiE9xDB2oV35NG-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5hrR0uZiE9xDB2oV35NG-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" value="Escrever resultado" vertex="1">
+          <mxGeometry height="60" width="120" x="450" y="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
