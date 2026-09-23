@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="91r0Tj3jbHYfwn-u3rZI">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CLIthaws_TeoYepbinFc-4" edge="1" parent="1" source="CLIthaws_TeoYepbinFc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CLIthaws_TeoYepbinFc-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Inicio" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-6" edge="1" parent="1" source="CLIthaws_TeoYepbinFc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CLIthaws_TeoYepbinFc-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ler P1,P2,P3" vertex="1">
+          <mxGeometry height="60" width="156" x="336" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-13" edge="1" parent="1" source="CLIthaws_TeoYepbinFc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CLIthaws_TeoYepbinFc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-17" connectable="0" parent="CLIthaws_TeoYepbinFc-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="P1" vertex="1">
+          <mxGeometry relative="1" x="-0.375" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-14" edge="1" parent="1" source="CLIthaws_TeoYepbinFc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CLIthaws_TeoYepbinFc-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-18" connectable="0" parent="CLIthaws_TeoYepbinFc-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="P3" vertex="1">
+          <mxGeometry relative="1" x="-0.2051" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-15" edge="1" parent="1" source="CLIthaws_TeoYepbinFc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CLIthaws_TeoYepbinFc-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-16" connectable="0" parent="CLIthaws_TeoYepbinFc-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="P2" vertex="1">
+          <mxGeometry relative="1" x="-0.1778" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-5" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Qual é maior?" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Imprima P1" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Imprima P3" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-19" edge="1" parent="1" source="CLIthaws_TeoYepbinFc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CLIthaws_TeoYepbinFc-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CLIthaws_TeoYepbinFc-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Imprima P2" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
